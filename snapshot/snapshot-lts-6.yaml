@@ -1,0 +1,10 @@
+resolver: lts-6.35
+name: snapshot-lts-6
+packages:
+- foundation-0.0.10
+- gnss-converters-0.3.25
+- postgresql-connector-0.2.4
+- preamble-0.0.57
+- sbp-2.3.2
+- shakers-0.0.38
+- wolf-0.3.37
