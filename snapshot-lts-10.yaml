@@ -1,5 +1,5 @@
-resolver: nightly-2017-12-19
-name: snapshot-nightly
+resolver: lts-10.0
+name: snapshot-lts-10
 packages:
 - gnss-converters-0.3.25
 - postgresql-connector-0.2.4
@@ -9,3 +9,4 @@ packages:
 - serialport-0.4.7
 - shakers-0.0.38
 - wolf-0.3.37
+
