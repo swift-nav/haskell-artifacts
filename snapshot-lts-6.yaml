@@ -4,7 +4,7 @@ packages:
 - foundation-0.0.10
 - gnss-converters-0.3.25
 - postgresql-connector-0.2.4
-- preamble-0.0.57
+- preamble-0.0.58
 - rtcm-0.2.11
 - sbp-2.3.2
 - shakers-0.0.38
