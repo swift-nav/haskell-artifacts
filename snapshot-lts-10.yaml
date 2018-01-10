@@ -1,7 +1,7 @@
 resolver: lts-10.2
 name: snapshot-lts-10
 packages:
-- gnss-converters-0.3.25
+- gnss-converters-0.3.28
 - postgresql-connector-0.2.4
 - preamble-0.0.58
 - rtcm-0.2.11

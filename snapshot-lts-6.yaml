@@ -2,7 +2,7 @@ resolver: lts-6.35
 name: snapshot-lts-6
 packages:
 - foundation-0.0.10
-- gnss-converters-0.3.25
+- gnss-converters-0.3.28
 - postgresql-connector-0.2.4
 - preamble-0.0.58
 - rtcm-0.2.11
