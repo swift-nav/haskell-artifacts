@@ -1,10 +1,10 @@
-resolver: nightly-2017-12-19
+resolver: nightly-2017-01-09
 name: snapshot-nightly
 packages:
 - gnss-converters-0.3.28
 - postgresql-connector-0.2.4
 - preamble-0.0.58
-- rtcm-0.2.11
+- rtcm-0.2.13
 - sbp-2.3.2
 - serialport-0.4.7
 - shakers-0.0.38
