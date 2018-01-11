@@ -1,4 +1,4 @@
-resolver: nightly-2017-01-09
+resolver: nightly-2018-01-09
 name: snapshot-nightly
 packages:
 - gnss-converters-0.3.28
