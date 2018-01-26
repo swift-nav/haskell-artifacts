@@ -1,11 +1,11 @@
 resolver: nightly-2018-01-09
 name: snapshot-nightly
 packages:
-- gnss-converters-0.3.28
+- gnss-converters-0.3.30
 - postgresql-connector-0.2.4
 - preamble-0.0.58
-- rtcm-0.2.13
-- sbp-2.3.2
+- rtcm-0.2.14
+- sbp-2.3.6
 - serialport-0.4.7
 - shakers-0.0.40
 - wolf-0.3.40
