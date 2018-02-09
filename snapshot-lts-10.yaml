@@ -1,4 +1,4 @@
-resolver: lts-10.4
+resolver: lts-10.5
 name: snapshot-lts-10
 packages:
 - gnss-converters-0.3.30
@@ -8,5 +8,6 @@ packages:
 - sbp-2.3.6
 - serialport-0.4.7
 - shakers-0.0.40
+- warped-0.0.1
 - wolf-0.3.41
 

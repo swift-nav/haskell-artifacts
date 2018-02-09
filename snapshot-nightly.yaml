@@ -1,4 +1,4 @@
-resolver: nightly-2018-01-29
+resolver: nightly-2018-02-09
 name: snapshot-nightly
 packages:
 - gnss-converters-0.3.30
@@ -8,4 +8,5 @@ packages:
 - sbp-2.3.6
 - serialport-0.4.7
 - shakers-0.0.40
+- warped-0.0.1
 - wolf-0.3.41
