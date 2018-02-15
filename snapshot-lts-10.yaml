@@ -8,6 +8,5 @@ packages:
 - sbp-2.3.6
 - serialport-0.4.7
 - shakers-0.0.41
-- warped-0.0.2
+- warped-0.0.3
 - wolf-0.3.42
-
