@@ -2,7 +2,7 @@ resolver: nightly-2018-02-09
 name: snapshot-nightly
 packages:
 - gnss-converters-0.3.30
-- labsat-0.0.2
+- labsat-0.0.3
 - postgresql-connector-0.2.4
 - preamble-0.0.59
 - rtcm-0.2.14
