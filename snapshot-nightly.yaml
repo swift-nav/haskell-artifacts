@@ -6,7 +6,7 @@ packages:
 - postgresql-connector-0.2.4
 - preamble-0.0.59
 - rtcm-0.2.14
-- sbp-2.3.6
+- sbp-2.3.9
 - serialport-0.4.7
 - shakers-0.0.42
 - warped-0.0.3
