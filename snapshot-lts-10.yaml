@@ -1,4 +1,4 @@
-resolver: lts-10.5
+resolver: lts-10.8
 name: snapshot-lts-10
 packages:
 - gnss-converters-0.3.30
