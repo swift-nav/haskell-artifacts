@@ -1,5 +1,5 @@
-resolver: nightly-2018-03-12
-name: snapshot-nightly
+resolver: lts-11.0
+name: snapshot-lts-11
 packages:
 - gnss-converters-0.3.30
 - labsat-0.0.4
