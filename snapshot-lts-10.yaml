@@ -1,11 +1,11 @@
 resolver: lts-10.10
 name: snapshot-lts-10
 packages:
-- gnss-converters-0.3.30
+- gnss-converters-0.3.31
 - labsat-0.0.5
 - postgresql-connector-0.2.4
 - preamble-0.0.60
-- rtcm-0.2.14
+- rtcm-0.2.15
 - sbp-2.3.13
 - serialport-0.4.7
 - shakers-0.0.44
